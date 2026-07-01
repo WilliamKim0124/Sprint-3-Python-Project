@@ -1,5 +1,3 @@
-# Sprint-3-Python-Project
-
 # Video Game Sales Analysis
 
 ## Description
