@@ -1,5 +1,5 @@
 # Sprint-3-Python-Project
-readme_text = """
+
 # Video Game Sales Analysis
 
 ## Description
@@ -17,6 +17,3 @@ Adapted from VGChartz (public domain estimates). The dataset contains 20 of the 
 - North America significantly outsold Japan across all games (295.75M vs 78.72M)
 - Sports and Platform genres had the highest combined global sales
 - 6 games in the dataset were released before the year 2000
-"""
-
-print(readme_text)
